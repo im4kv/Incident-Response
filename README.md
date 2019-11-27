@@ -7,4 +7,4 @@ Repository documents will help you understand where to monitor or configure to p
 
 ### Preparation
 
-In addition to What is required in preparation phase of incident handling, including: compile a list of all your assets,Create a communication plan, Develop and Document IR Policies and etc, this directory contain which security events or ids, and at what thresholds, these events should be investigated.
+In addition to what is required in preparation phase of incident handling (including: compile a list of all your assets,create a communication plan, develop and document IR policies and etc), this directory contain which security events or IDs, and at what thresholds, these events should be investigated.
