@@ -9,7 +9,7 @@ Repository documents will help you understand where to monitor or configure to p
 
 In addition to what is required in preparation phase of incident handling (including: compile a list of all your assets,create a communication plan, develop and document IR policies and etc), this directory contain which security events or IDs, and at what thresholds, these events should be investigated.
 
-- [Windows ATT&CK Logging Cheat Sheet](https://github.com/ikhosravi/Incident-Response/blob/master/Preparation/Windows%2BATT%26CK_Logging%2BCheat%2BSheet_ver_Sept_2018.pdf) Map the tactics and techniques of the Mitre ATT&CK framework to Windows audit log event IDs and Sysmon unique IDs in order to know what to collect and harvest, and also what you could hunt for using Windows logging.
+- [Windows ATT&CK Logging Cheat Sheet](https://github.com/ikhosravi/Incident-Response/blob/master/Preparation/Windows%2BATT%26CK_Logging%2BCheat%2BSheet_ver_Sept_2018.pdf): Map the tactics and techniques of the Mitre ATT&CK framework to Windows audit log event IDs and Sysmon unique IDs in order to know what to collect and harvest, and also what you could hunt for using Windows logging.
 
 ## Acknowledgments
 
