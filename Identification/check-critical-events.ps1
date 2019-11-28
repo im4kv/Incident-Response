@@ -8,7 +8,7 @@
 # Provided by John Strand - https://www.dropbox.com/sh/gb6k64cm3m641td/AADjcsSx6jKxFpzhS4nufQSka?dl=0
 # Updated By Iman Khosravi - https://github.com/ikhosravi/Incident-Response
 
-Get-WinEvent -FilterHashtable @{LogName="Security"; ID=4624,4720,4722,4724,4738,4732,5140,1102}
+Get-WinEvent -FilterHashtable @{LogName="Security"; ID=4624,4719,4720,4722,4724,4738,4732,5140,1102}
 
 Get-WinEvent -FilterHashtable @{LogName="System"; ID=7030,1056,7045,10000,10001,10100,20001,20002,20003,24576,24577,24579}
 
