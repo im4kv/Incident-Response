@@ -14,6 +14,11 @@ In addition to what is required in preparation phase of incident handling (inclu
 ### Identification
 
 - [Critical Windows Events (Powershell)](https://github.com/ikhosravi/Incident-Response/blob/master/Identification/check-critical-events.ps1): A Powershell script to report important windows events such as Successful logon,new user account created, user account enabled,password reset,local group membership changed, network share was accessed (look for suspicious C$,IPC$), new service installed, security log cleared and etc.
+
+## Disclaimer
+
+The opinions and instructions in this repository are mine alone and do not reflect those of my current or past employers. 
+
 ## Acknowledgments
 
 * MalwareArchaeology.com
