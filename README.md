@@ -17,7 +17,7 @@ In addition to what is required in preparation phase of incident handling (inclu
 
 ## Disclaimer
 
-The opinions and instructions in this repository are mine alone and do not reflect those of my current or past employers. 
+Opinions and instructions in this repository are mine alone and do not reflect those of my current or past employers. 
 
 ## Acknowledgments
 
