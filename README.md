@@ -1,5 +1,5 @@
 # Incident Response
->  List of useful documents and utilities utilized in incident handling process to identify,contain and eradicate those who where illegally inside :smiling_imp: :gun:
+>  List of useful resources utilized in incident handling process to identify,contain and eradicate those who where illegally inside :smiling_imp: :gun:
 
 ## Getting Started
 
@@ -11,6 +11,9 @@ In addition to what is required in preparation phase of incident handling (inclu
 
 - [Windows ATT&CK Logging Cheat Sheet](https://github.com/ikhosravi/Incident-Response/blob/master/Preparation/Windows%2BATT%26CK_Logging%2BCheat%2BSheet_ver_Sept_2018.pdf): Map the tactics and techniques of the Mitre ATT&CK framework to Windows audit log event IDs and Sysmon unique IDs in order to know what to collect and harvest, and also what you could hunt for using Windows logging.
 
+### Identification
+
+- [Critical Windows Events (Powershell)](https://github.com/ikhosravi/Incident-Response/blob/master/Identification/check-critical-events.ps1): A Powershell script to report important windows events such as Successful logon,new user account created, user account enabled,password reset,local group membership changed, network share was accessed (look for suspicious C$,IPC$), new service installed, security log cleared and etc.
 ## Acknowledgments
 
 * MalwareArchaeology.com
